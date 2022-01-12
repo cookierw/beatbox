@@ -2,6 +2,16 @@
 
 Basic drum pad app using Java/JavaFX
 
+## Todo/Goals
+
+    - Implement OptionsController
+      - Slider control to manipulate amplitude
+      - Selector for drum kits
+      - Ability to switch kits
+    - Wire up display to show current sample being played
+    - Add way to load user kits
+    - Implement prefs to persist app state
+
 ## License
 
 Released under GPLv2 w/ Classpath Exception
